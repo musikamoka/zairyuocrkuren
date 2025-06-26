@@ -1,5 +1,3 @@
-# zairyuocrkuren
-大規模モデルで小型ocrモデルを訓練
 🧾 PaddleOCR 检测+识别（det+rec）模型训练方案
 🔍 1. 项目目标
 使用在留卡图像进行字段级文本检测与识别训练
